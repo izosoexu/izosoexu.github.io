@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izosoexu.github.io/Jnf/sitemap_index.txt
+Sitemap: https://izosoexu.github.io/PNL/sitemap_index.txt
+Sitemap: https://izosoexu.github.io/cEj/sitemap_index.txt
+Sitemap: https://izosoexu.github.io/gbC/sitemap_index.txt
